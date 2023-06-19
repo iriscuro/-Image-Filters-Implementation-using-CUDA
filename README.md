@@ -11,7 +11,7 @@ CUDA-based GPU Image Filters: Efficiently apply color-to-grayscale conversion an
 
 To run the code in Colab, follow these steps:
 
-1. Install the necessary dependencies by running the following commands in a code cell:
+1. Install the necessary dependencies by running the following commands in a code cell (this is not necessary):
    ``` 
    !pip install opencv-python
    !pip install pycuda
