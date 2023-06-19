@@ -49,3 +49,12 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## References
+
+If you are interested in learning more about GPU programming and CUDA, you can refer to the following book:
+
+- Kirk, D.B., Wen-mei W. Hwu. "Programming Massively Parallel Processors: A Hands-on Approach, Third Edition". Morgan Kaufmann, 2016.
+
+The code provided in this repository was inspired by examples from this book.
+
