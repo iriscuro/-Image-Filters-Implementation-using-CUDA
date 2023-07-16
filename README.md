@@ -39,7 +39,7 @@ To run the code in Colab, follow these steps:
 ## Dependencies
 
 - Colab environment (GPU runtime)
-- 
+  
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
