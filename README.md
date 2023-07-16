@@ -36,17 +36,13 @@ To run the code in Colab, follow these steps:
 
 5. The output image (`output.jpg`) will be generated and can be downloaded from Colab.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Dependencies
 
 - Colab environment (GPU runtime)
+- 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
